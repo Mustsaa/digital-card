@@ -1,0 +1,118 @@
+body {
+    background: #23252C;
+    color: white;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.5em;
+    padding-top: 15px;
+}
+
+.profile-img { 
+    width: 317px;
+    height: 317px;
+    top: 40px;
+    left: 116px;
+    gap: 0px;
+    border-radius: 10px 10px 0px 0px;
+    opacity: 0px;
+    margin: -4px;
+
+}
+
+.main-container {
+    width: 317px;
+    height: 399px;
+    top: 361px;
+    left: 116px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    background: #1A1B21;
+
+}
+
+.profession {
+    color: #F3BF99;
+    font-size: .8em;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 0;
+    margin: 0;
+    line-height: 15.49px;
+   
+}
+
+h3 {
+    color: #F5F5F5;
+    font-size: .65em;
+    padding-bottom: 14px;
+}
+
+button {
+    width: 247px;
+    height: 34px;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+    border-radius: 6px;
+    border: 1px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    font-family: "Inter", sans-serif;
+}
+
+h2 {    
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    padding-left: 2.25rem;
+}
+
+p {
+    font-family: Inter;
+    font-size: 0.64em;
+    font-weight: 400;
+    line-height: 15.36px;
+    text-align: left;
+    padding: 0 2.25rem;
+    margin-top: -9px;
+}
+
+.footer {
+    background: #161619;
+    width: 317px;
+    height: 64px;
+    top: 760px;
+    left: 116px;
+    gap: 0px;
+    border-radius: 0px 0px 10px 10px;
+    margin: auto;
+}
+
+.fa {
+    
+    width: 25px;
+    height: 25px;
+    top: 779.5px;
+    left: 164.5px;
+    gap: 10px;
+    text-decoration: none;
+    color: white;
+    margin: 20px 15px;
+                                                            
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-envelope {
+    color: black;
+    margin: auto 8px;
+
+}
